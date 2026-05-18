@@ -1,7 +1,6 @@
 # ME5415: Advanced Soft Robotics - Emio Project
 
 This repository contains the laboratory files and external SOFA plugins developed for the ME5415 Continuum Soft Robot Control: Emio robot. 
-
 The project focuses on a systematic comparison and integration of various modelling techniques (1D topological vs. 3D volumetric), Inverse Kinematics formulations (Integrated, Reduced Actuator-Space, and OIM-Inspired) and custom Pick-and-Place tasks with Emio robot.
 
 ## Repository Structure
@@ -21,9 +20,9 @@ For the advanced 3D volumetric models (Hyper-Elastic and Non-Uniform) to load co
 1. Copy the entire `external_plugins` folder from this repository.
 2. Paste it directly into the root of your `emio-labs` directory (e.g., `~/emio-labs/external_plugins`).
 
-### Step 2: Launch Emio Labs
-
-Click the App icon of Emio Labs to launch it.
+### Step 2: Install and Launch Emio Labs
+To install the EMIO Labs, please click on this link: https://compliance-robotics.us16.list-manage.com/track/click?u=a88369e12a53596e26abd3fb0&id=c19f3f9a3b&e=38add711d7&i=d74cd1019e
+Once installed, click the App icon of Emio Labs to launch it.
 
 ### Step 3: Configure the Labs
 
